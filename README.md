@@ -1,16 +1,44 @@
-## Hi there 👋
+# Arvinder Singh
 
-<!--
-**arvinder1996/arvinder1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer**  
+8+ years of experience
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+I'm Arvinder Singh, a passionate Senior Software Engineer with over 8 years of experience delivering robust, scalable, and high-quality solutions. My expertise spans both frontend and backend development, with a focus on modern web technologies, frameworks, and databases.
+
+---
+
+## 💻 Technical Skills
+
+- **Frontend:**
+  - WordPress (WP)
+  - JavaScript (JS)
+  - jQuery
+  - Elementor
+
+- **Backend:**
+  - PHP
+  - CodeIgniter (CI)
+  - Laravel
+  - Node.js
+  - Express.js
+
+- **Databases:**
+  - MySQL
+  - PostgreSQL (PSQL)
+  - MongoDB
+
+---
+
+## 📧 Contact
+
+Feel free to reach out for collaboration, project inquiries, or networking:
+
+**Email:** work.arvinder96@gmail.com
+
+---
+
+*Let’s build something amazing together!*
